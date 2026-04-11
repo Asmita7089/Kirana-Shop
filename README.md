@@ -115,7 +115,7 @@ Automatic alerts when stock falls below minimum - shows exactly how many packets
 
 ### 6. Analytics - Best Sellers
 See top-selling products and slow-moving items - helps decide what to restock
-![Analytics](screenshots/6-analytics.png)
+![Analytics](screenshots/66-analytics.png)
 ![Analytics](screenshots/6-analytics1.png)
 
 ### 7. Smart Suggestions
@@ -125,6 +125,10 @@ Dead stock detector + auto combo suggestions (e.g., "Bread → Butter")
 ### 8. Smart Restock Generator
 Daily list of what to buy, how much, and total cost needed
 ![Restock](screenshots/8-restock.png)
+
+### 9. Request Generator
+Daily list of what customers want
+![Request](screenshots/9-request.png)
 
 ---
 
