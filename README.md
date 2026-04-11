@@ -5,6 +5,10 @@
 A simple, user-friendly web application designed specifically for small grocery shop owners to manage inventory, track sales, and get smart insights.
 
 ---
+## 📝 Project Description
+
+Kirana Shop Manager is a web-based inventory management system designed for **small grocery shop owners (Kirana Stores)**.
+
 
 ## 🎯 Features
 
@@ -86,6 +90,43 @@ A simple, user-friendly web application designed specifically for small grocery 
 *(Create new account on registration page)*
 
 ---
+## 📸 Screenshots
+
+### 1. Login Page
+User registration and login system
+![Login](screenshots/1-login.png)
+
+### 2. Dashboard
+At-a-glance overview of today's sales, total products, and low stock items
+![Dashboard](screenshots/2-dashboard.png)
+
+### 3. Product Management
+Add new products with cost price, selling price, and stock levels
+![Products](screenshots/3-products.png)
+![Products](screenshots/3-products1.png)
+
+### 4. Daily Sales Entry
+Record sales quickly - select product, enter quantity, total calculates automatically
+![Sales](screenshots/4-sales.png)
+
+### 5. Low Stock Alerts
+Automatic alerts when stock falls below minimum - shows exactly how many packets left
+![Alerts](screenshots/5-alerts.png)
+
+### 6. Analytics - Best Sellers
+See top-selling products and slow-moving items - helps decide what to restock
+![Analytics](screenshots/6-analytics.png)
+![Analytics](screenshots/6-analytics1.png)
+
+### 7. Smart Suggestions
+Dead stock detector + auto combo suggestions (e.g., "Bread → Butter")
+![Suggestions](screenshots/7-suggestions.png)
+
+### 8. Smart Restock Generator
+Daily list of what to buy, how much, and total cost needed
+![Restock](screenshots/8-restock.png)
+
+---
 
 ## 📸 Features Breakdown
 
@@ -157,16 +198,6 @@ A simple, user-friendly web application designed specifically for small grocery 
 ---
 
 ---
-
-## 🔧 Configuration
-
-**Database Details** (in `config.php`):
-```php
-$host = 'localhost';
-$user = 'root';
-$pass = '';
-$db = 'kirana_shop';
-
 ## Future Enhancements
 Possible features to add:
 
