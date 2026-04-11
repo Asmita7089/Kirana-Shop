@@ -8,7 +8,7 @@ A simple, user-friendly web application designed specifically for small grocery 
 ## 📝 Project Description
 
 Kirana Shop Manager is a web-based inventory management system designed for **small grocery shop owners (Kirana Stores)**.
-
+USN:23BTRCN032
 
 ## 🎯 Features
 
