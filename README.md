@@ -94,7 +94,7 @@ Kirana Shop Manager is a web-based inventory management system designed for **sm
 
 ### 1. Login Page
 User registration and login system
-![Login]((https://github.com/YOUR-USERNAME/kirana-shop/raw/main/screenshots/1-login.png)
+[Login](https://github.com/Asmita7089/kirana-shop/raw/main/screenshots/1-login.png)
 
 ### 2. Dashboard
 At-a-glance overview of today's sales, total products, and low stock items
